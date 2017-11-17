@@ -1,6 +1,6 @@
 /classes/
-OnlineStore/test-output
-OnlineStore/bin/
-OnlineStore/src/Screenshots/
-OnlineStore/target/
-OnlineStore/test-output/
+test-output
+bin/
+src/Screenshots/
+target/
+test-output/
