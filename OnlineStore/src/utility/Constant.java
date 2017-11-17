@@ -1,10 +1,10 @@
 package utility;
 
 public class Constant {
-	    public static final String URL = "http://www.onlinestore.toolsqa.com";
-	    public static final String Username = "testuser_1";
-	    public static final String Password ="Test@123";
-		public static final String Path_TestData = "/home/ragavendra/eclipse-workspace/OnlineStore/src/testData/";
+	    public static final String URL = "http://www.google.com";
+	    public static final String Username = "uname";
+	    public static final String Password ="pa$$wd";
+		public static final String Path_TestData = "/home/ragavendra/repos/OnlineStore/OnlineStore/src/testData/";
 		public static final String File_TestData = "TestData.xlsx";
 		
 		//Test Data Sheet Columns
@@ -22,5 +22,5 @@ public class Constant {
 		public static final int Col_Phone = 11;
 		public static final int Col_Email = 12;
 		public static final int Col_Result = 13;
-		public static final String Path_ScreenShot = "/home/ragavendra/eclipse-workspace/OnlineStore/src/Screenshots/";
+		public static final String Path_ScreenShot = "/home/ragavendra/repos/OnlineStore/OnlineStore/src/Screenshots/";
 	}
