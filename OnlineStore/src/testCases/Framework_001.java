@@ -23,6 +23,8 @@ public class Framework_001{
 	private String sTestCaseName;
 	private int iTestCaseRow;
 	
+	//hello
+	
   // Following TestNg Test case pattern, and divided a Test case in to three different part.
   // In Before Method, your code will always be the same for every other test case.
   // In other way before method is your prerequisites of your main Test Case	
